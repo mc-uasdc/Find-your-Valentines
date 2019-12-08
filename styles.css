@@ -1,0 +1,33 @@
+.pinkdoor{ 
+border: 10px dotted pink;
+width:200px;
+display:none;
+}
+.redDoor{ 
+  border: 10px dotted red;
+  width:300px;  
+  height:400px;
+  display:none;
+}
+body{
+    background-color:#dd99ff;
+}
+h1{
+    font-family: 'Felipa', cursive;
+    font-size:40px;
+    color:#f44292;
+    text-align:center;
+    border:double 10px;
+}
+p{
+    font-family: 'Lobster', cursive;
+    font-size:30px;
+}
+.yes{
+    font-family: 'Satisfy', cursive;
+    padding: 20px;
+    display:flex;
+    justify-content:center;
+    color:red;
+    font-size:20px;
+}
